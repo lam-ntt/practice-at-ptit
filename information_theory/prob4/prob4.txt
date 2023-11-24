@@ -1,0 +1,58 @@
+INPUT
+3
+1 0 1 1 1 0 0
+0 1 0 1 1 1 0
+0 0 1 0 1 1 1 
+1
+2
+0 0 0 1 1 0 1
+2
+0 0 0 0 0 0 0
+2 
+0 1 0 0 0 1 1
+2 
+1 1 0 0 1 0 1
+2
+0 0 0 1 1 1 1 
+3
+4
+5
+0
+
+OUTPUT
+Nhap so hang cua ma tran kiem tra: 
+Nhap vao ma tran kiem tra: 
+Hay chon 1 trong so cac lua chon sau: 
+#0 Thoat
+#1 Liet ke cac tu ma cua bo ma
+#2 Kiem tra 1 vector co la ma hop le
+#3 Tim dmin theo dinh nghia
+#4 Tim dmin theo so cot cua ma tran kiem tra
+#5 Tim dmin theo tinh chat cua ma khoi tuyen tinh
+Nhap vao lua chon: 
+Danh sach tu ma cua bo ma la:
+[1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 0, 0, 1, 0]
+[1, 1, 0, 1, 0, 0, 0]
+[1, 1, 0, 0, 1, 0, 1]
+[1, 0, 1, 1, 1, 0, 0]
+[1, 0, 1, 0, 0, 0, 1]
+[1, 0, 0, 1, 0, 1, 1]
+[1, 0, 0, 0, 1, 1, 0]
+[0, 1, 1, 1, 0, 0, 1]
+[0, 1, 1, 0, 1, 0, 0]
+[0, 1, 0, 1, 1, 1, 0]
+[0, 1, 0, 0, 0, 1, 1]
+[0, 0, 1, 1, 0, 1, 0]
+[0, 0, 1, 0, 1, 1, 1]
+[0, 0, 0, 1, 1, 0, 1]
+Nhap vao lua chon: 
+Nhap vao vector ma: 
+Vector la tu ma hop le 
+Nhap vao lua chon: 
+Khoang cach Hamming toi thieu cua bo ma la: 3
+Nhap vao lua chon: 
+Khoang cach Hamming toi thieu cua bo ma la: 3
+Nhap vao lua chon: 
+Khoang cach Hamming toi thieu cua bo ma la: 3
+Nhap vao lua chon:

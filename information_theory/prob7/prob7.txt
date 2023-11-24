@@ -1,0 +1,31 @@
+INPUT
+C
+7
+0 1 2 4
+0
+1
+2
+3
+0
+
+OUTPUT
+Nhap cac thong tin cua bo ma:
+Nhap ten bo ma: 
+Nhap do dai tu ma: 
+Nhap da thuc sinh/kiem tra duoi dang he so mu cua da thuc (nguoc): 
+Nhap 1 neu la da thuc sinh, 0 neu la da thuc kiem tra: 
+Hay chon 1 trong so cac lua chon sau: 
+#0 Thoat
+#1 Liet ke tat ca cac tong kiem tra
+#2 Kiem tra bo ma co kha nang truc giao day du khong
+#3 Kiem tra bo ma co kha nang truc giao khong
+Hay nhap vao lua chon: 
+Cac tong kiem tra cua bo ma la: 
+A0=r0+r2+r3+r4
+A1=r1+r3+r4+r5
+A2=r2+r4+r5+r6
+Hay nhap vao lua chon: 
+Bo ma co kha nang truc giao day du
+Hay nhap vao lua chon: 
+Bo ma co kha nang truc giao
+Hay nhap vao lua chon:
