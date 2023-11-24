@@ -1,0 +1,38 @@
+INPUT
+1
+0.1 0.2 0.7
+2
+3
+0.1 0.2 0.7
+0.2 0.3 0.5
+0.3 0.4 0.3
+3
+0.6
+
+OUTPUT
+Hay chon 1 trong so cac lua chon sau: 
+#0 Thoat
+#1 Tinh entropy cua 1 bo gia tri
+#2 Tinh entropy cua 1 tap gia tri
+#3 Ve tap gia tri H_max
+Nhap vao lua chon: 
+Nhap vao bo gia tri: 
+Entropy cua nguon la: 1.16
+Nhap vao lua chon: 
+Nhap vao so bo gia tri: 
+Nhap vao cac bo gia tri:
+Cac bo gia tri thu duoc la: 
+p=0.1, q=0.2, r=0.7, H=1.16
+p=0.2, q=0.3, r=0.5, H=1.49
+p=0.3, q=0.4, r=0.3, H=1.57
+(H.1)
+Nhap vao lua chon: 
+Nhap vao gia tri co dinh: 
+Cac bo gia tri thu duoc la: 
+p=0.0, q=0.4, r=0.6, H=0.97
+p=0.1, q=0.3, r=0.6, H=1.30
+p=0.2, q=0.2, r=0.6, H=1.37
+p=0.3, q=0.1, r=0.6, H=1.30
+p=0.4, q=0.0, r=0.6, H=0.97
+(H.2)
+Nhap vao lua chon: 

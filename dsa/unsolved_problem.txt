@@ -1,0 +1,92 @@
+DSA
+Sắp xếp và tìm kiếm
+DSA06038     CẶP SỐ
+DSA06045     XÂU TỐT
+
+Quay lui - Nhánh cận
+DSA02007     ĐỔI CHỖ CÁC CHỮ SỐ
+DSA02026     PHÉP TOÁN CƠ BẢN
+DSA02035     HOÁN VỊ CÁC CHỮ SỐ
+DSA02009     CHIA MẢNG
+DSA02015     LOẠI BỎ DẤU NGOẶC
+DSA02014     TỪ ĐIỂN
+DSA02018     BIỂU THỨC TOÁN HỌC
+DSA02019     ĐƯỜNG ĐI DÀI NHẤT
+DSA02020     SỐ NHỎ NHẤT CÓ N ƯỚC SỐ
+
+Tham lam
+DSA03035     SẮP XẾP ĐƠN GIẢN
+DSA03020     BIỂU THỨC ĐÚNG
+DSA03021     TÌM DÃY SỐ
+DSA03023     SẮP XẾP VIÊN BI
+DSA03033     ATM THẾ HỆ MỚI
+
+Chia để trị
+DSA04019      CẶP ĐIỂM GẦN NHẤT
+DSA04030      SỐ TRIBONAXI
+
+Quy hoạch động
+DSA05014      CATALAN NUMBER
+DSA05038      DÃY CON TĂNG DÀI NHẤT 2 CHIỀU
+DSA05047      CHỌN Ô
+DSA05010      DÃY CON DÀI NHẤT CÓ TỔNG CHIA HẾT CHO K
+DSA05039      TỔNG CHỮ SỐ
+DSA05046      LŨY THỪA BẬC K
+DSA05045      BÀI TOÁN CÁI TÚI KHÔNG NGUYÊN
+
+Hàng đợi
+DSA08010      BIẾN ĐỔI SỐ TỰ NHIÊN
+DSA08022      BỘI SỐ LỚN NHẤT CỦA 3
+DSA08011      KHOẢNG CÁCH XÂU KÍ TỰ
+DSA08045      HÀNG RÀO
+
+Duyệt đồ thị
+DSA09031      CHÚ CỪU XA CÁCH
+DSA09049      LAN TRUYỀN DINH DƯỠNG
+
+Đồ thị nâng cao
+DSA10001      TÌM ĐƯỜNG
+
+Cây nhị phân 
+DSA11005      DUYỆT CÂY 2
+DSA11014      TỔNG NODE LÁ BÊN PHẢI
+DSA11015      TỔNG LỚN NHẤT
+DSAKT060      TRUY VẤN ĐỐI XỨNG
+DSA11030      KHOẢNG CÁCH GIỮA 2 NODE
+
+NOTE:
+Sắp xếp và tìm kiếm
+DSA06002    buộc sử dụng stable_sort
+DSA06011    kết quả là tổng đứng sau nếu cx giá trị tuyệt đối
+DSA06005    sai output
+DSA06006    sai output
+DSA06014    sai output
+DSA06018    sai input A[i]<=40000
+DSA06019    A[i]>=0
+DSA06032    A[i] kiểu long long
+DSA06033    (thiếu đề hoặc test yếu) nếu ko có kết quả in ra -1
+DSA06035    A[i] tăng(giảm) chặt
+DSA06037    n>=1e5
+Quay lui - Nhánh cận
+DSA02002    Sai output
+DSA02010    Sai output (giữa [] và [] không có dấu " ")
+DSA02032    n<=30, buộc dùng s+=to_string()   
+DSA06040    phải dùng mảng, ko dùng set
+DSA06049    phải khai báo mảng bằng a[n], buộc cnt dùng ll  
+Tham lam
+DSA03019    p, q buộc kiểu long long
+DSA03014    n<=1e5
+Chia để trị
+DSA04015    n<=1e6
+DSA04017    n<=1e6
+DSA04023    n<=1e5
+Quy hoạch động
+DSA05013    buộc phải khai báo toàn cục
+DSA05017    dãy con tăng (giảm) chặt
+DSA05024    ko được sort mảng a
+Ngăn xếp
+DSA07007    đề bài thiếu, chỉ có phép toán +- và không xét đến trường hợp -(-)
+Duyệt đồ thị
+DSA09029    đề cho ngoài phạm vi đỉnh
+DSA09030    (note) đồ thị có thể không liên thông
+DSA11001    in ra không dấu cách

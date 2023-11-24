@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+	int n, a[5000];
+	cin >> n;
+	for(int i=0; i<n; i++){
+		cin >> a[i];
+	}
+	
+	map<int, int> mp;
+	for(int i=0; i<n; i++){
+		++mp[a[i]];
+	}
+	for(int i=0; i<n; i++){
+		if(mp[a[i]]!=0){
+			cout << a[i] << " ";
+			mp[a[i]]=0;
+		}
+	}
+	return 0;
+}

@@ -1,0 +1,28 @@
+INPUT
+4
+x_1 0.125
+x_2 0.25
+x_3 0.125
+x_4 0.5
+x_1x_2x_3x_4
+000010011
+
+OUTPUT
+Nhap vao so ban tin: 
+Nhap vao ten va xac suat cua ban tin 1: 
+Nhap vao ten va xac suat cua ban tin 2: 
+Nhap vao ten va xac suat cua ban tin 3: 
+Nhap vao ten va xac suat cua ban tin 4: 
+Thong tin bo ma: 
+x_1 0.125 000
+x_2 0.25 01
+x_3 0.125 001
+x_4 0.5 1
+Do dai trung binh: 1.75
+Do lech chuan: 0.6875
+Nhap vao chuoi ki tu: 
+Chuoi sau khi ma hoa: 
+000010011
+Nhap vao chuoi ki tu: 
+Chuoi sau khi giai ma: 
+x_1x_2x_3x_4
