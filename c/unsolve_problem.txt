@@ -1,0 +1,6 @@
+C  
+Mảng 1 chiều 
+C04049          ƯỚC SỐ CHUNG LỚN NHẤT CỦA DÃY SỐ
+Mảng 2 chiều
+C05025          SẮP XẾP MA TRẬN
+C05028          BIẾN ĐỔI VỀ 0
