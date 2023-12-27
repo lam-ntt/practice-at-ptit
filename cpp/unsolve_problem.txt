@@ -1,0 +1,15 @@
+CPP
+Mảng 1 chiều
+CPP0218     Đồng dư với k
+CPP0262     Tập hợp nguyên tố cùng nhau
+Mảng 2 chiều 
+CPP0237     Ma trận vuông lớn nhất
+CPP0239	    Tính hạng của ma trận
+Xử lí số nguyên lớn 
+CPP0330	    Số đối xứng lớn nhất
+Ứng dụng tìm kiếm 
+CPP0451	    Phần tử gần nhất
+Lớp bạn - Kế thừa 
+CPP0631	    Quản lí bán hàng - 1
+CPP0632	    Quản lí bán hàng - 2
+CPP0806	    Quản lí bán hàng - 3
